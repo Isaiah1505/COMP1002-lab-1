@@ -1,0 +1,2 @@
+# COMP1002-lab-1
+For COMP1002,
